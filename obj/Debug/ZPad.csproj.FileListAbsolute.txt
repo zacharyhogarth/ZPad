@@ -1,0 +1,9 @@
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\bin\Debug\ZPad.exe.config
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\bin\Debug\ZPad.exe
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\bin\Debug\ZPad.pdb
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\obj\Debug\ZPad.csprojResolveAssemblyReference.cache
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\obj\Debug\ZPad.Properties.Resources.resources
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\obj\Debug\ZPad.ZPad.resources
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\obj\Debug\ZPad.csproj.GenerateResource.Cache
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\obj\Debug\ZPad.exe
+c:\users\keptil\documents\visual studio 2013\Projects\ZPad\ZPad\obj\Debug\ZPad.pdb
